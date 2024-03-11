@@ -1,0 +1,33 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.headerclass{
+    margin-top: 1rem;
+}
+
+.fa{
+    color: lightgray;
+    font-size: larger;
+}
+
+.heading{
+    font-size: 1.5rem;
+    font-style: italic;
+    margin-top: 1rem;
+}
+
+.text{
+    color: grey;
+    font-style: italic;
+}
+
+.sub-text{
+    font-size: 0.8rem;
+}
+
+.link-text{
+    font-size: 0.9rem;
+    font-style: italic;
+}
